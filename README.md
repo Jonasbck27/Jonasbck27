@@ -20,3 +20,7 @@ I am Jonas, also known as Quoboo, 15 years old, and interested in programming.<b
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/beckerjonas275@gmail.com)
+  
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Quoboo&label=Viewers&color=12&icon=0&pretty=true" />
+</a>
