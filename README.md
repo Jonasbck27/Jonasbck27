@@ -13,4 +13,4 @@ I am Jonas, also known as Quoboo, 16 years old, and interested in programming.<b
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quoboo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💘 Other
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/beckerjonas275@gmail.com) [![](https://visitcount.itsvg.in/api?id=Quoboo&icon=7&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Quoboo&icon=7&color=6)](https://visitcount.itsvg.in)
