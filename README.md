@@ -2,7 +2,7 @@
 I am Jonas, also known as Quoboo, 16 years old, and interested in programming.<br>I have tried several languages such as HTML, CSS, or JS, and I am particularly interested in Java.<br><br>In my free time, I like to go karting.<br>Besides, I still going to school and being taught in the field of computer science.<br>My favorite food is pizza, and I used to have a dog, I am still a big animal lover.<br><br>My current project is Lumania, which I lead myself.<br>We work with individual 3D model data and take Minecraft to a new level.<br><br>Funfact: I love chess and enjoy testing my strategic skills against other players.<br>My talent for planning and foresight often enables me to predict my opponent's next moves and adjust my own accordingly to win.
 
 
-## 🎳 Socials:
+## 🎏 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9YpgvRYThk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/J4_nas) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@J4_nas) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xquoboo) 
 
 # 💻 Tech Stack:
