@@ -13,4 +13,4 @@ I am Jonas, also known as Quoboo, and interested in programming.<br>I have tried
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quoboo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💘 Other
-  [![](https://visitcount.itsvg.in/api?id=Quoboo&icon=7&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Quoboo&icon=7&color=6)](https://visitcount.itsvg.in)ö
