@@ -1,7 +1,7 @@
 # 🌏 About Me:
 I am Jonas, also known as Quoboo, and interested in programming.<br>I have tried several languages such as HTML5, CSS3, JS or Java, and I'm currently learning a Framework called "React"!<br><br>In my free time, I like to go karting.<br>Besides, I still going to school and being taught in the field of computer science.
 
-Currently Projects:<br>
+Current Projects:<br>
 Lumania.net <bold>(Development)</bold><br>
 Anidash.com <bold>(Development)</bold><br>
 DevUnit.info <bold>(Stopped)</bold>
