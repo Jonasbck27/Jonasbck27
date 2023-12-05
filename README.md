@@ -1,5 +1,4 @@
-# 🌏 About Me:
-Current Projects:<br>
+# 🌏 Current Projects:
 Lumania.net <bold>(Development)</bold><br>
 Anidash.com <bold>(Development)</bold><br>
 DevUnit.info <bold>(Stopped)</bold>
