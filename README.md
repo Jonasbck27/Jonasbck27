@@ -1,5 +1,5 @@
 # 🌏 Current Projects:
-**FrontEnd Dev**<br>
+**FRONTEND DEV**<br>
 Lumania.net <bold>(Development)</bold><br>
 Anidash.com <bold>(Development)</bold><br>
 DevUnit.info <bold>(Stopped)</bold>
