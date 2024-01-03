@@ -1,7 +1,7 @@
 # 🌏 Current Projects:
 **FRONTEND DEV**<br>
-Lumania.net <bold>(Development)</bold><br>
-Anidash.com <bold>(Development)</bold><br>
+Lumania.net <bold>(Stopped)</bold><br>
+Anidash.com <bold>(Stopped)</bold><br>
 DevUnit.info <bold>(Stopped)</bold>
 
 # 💻 Tech Stack:
